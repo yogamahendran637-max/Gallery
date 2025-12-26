@@ -101,6 +101,11 @@ function changeImage(element) {
 
 ```
 # OUTPUT:
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/3d6bd371-a448-4180-9d1a-4ace353891c3" />
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/d8a476f5-ac6a-4fc9-9743-7fa71187df23" />
+
+
+
 
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
